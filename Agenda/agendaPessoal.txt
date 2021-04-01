@@ -1,0 +1,10 @@
+Nome: d
+   Telefone: 7
+   Endereço: d
+   E-mail: d
+*************************************
+Nome: t
+   Telefone: 6
+   Endereço: t
+   E-mail: t
+*************************************
